@@ -52,4 +52,4 @@ IT- VLAN 10, Network of 192.168.1.0/24
 
 12. In IT department, add PC called Test-PC to port fa0/6 and use it to test remote login.
 
-13. Configure port security to IT-dept switch to allow only Test-PC to access port fa0/1 (use sticky method to obtain mac-address with violation mode of shutdown.)
+13. Configure port security to IT-dept switch to allow only Test-PC to access port fa0/6 (use sticky method to obtain mac-address with violation mode of shutdown.)
