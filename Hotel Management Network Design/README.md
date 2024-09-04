@@ -15,6 +15,7 @@ As a part of your end year networking project, you are required to design and im
 7. Each department is expected to be in different VLAN with the following details
 
 
+
 1st Floor;
 
 Reception- VLAN 80, Network of 192.168.8.0/24
@@ -24,6 +25,7 @@ Store- VLAN 70, Network of 192.168.7.0/24
 Logistics- VLAN 60, Network of 192.168.6.0/24
 
 
+
 2nd Floor;
 
 Finance- VLAN 50, Network of 192.168.5.0/24
@@ -31,6 +33,7 @@ Finance- VLAN 50, Network of 192.168.5.0/24
 HR-VLAN 40, Network of 192.168.4.0/24
 
 Sales- VLAN 30, Network of 192.168.3.0/24
+
 
 
 3rd Floor;
