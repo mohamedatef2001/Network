@@ -34,4 +34,4 @@ RIPv2 will be used to provide routing for the routers in the internal network an
 
 static routing for the external server.
 
-The devices in building A will be expected to acquire dynamic IP addresses from a router-based DHCP server
+The devices in building A will be expected to acquire dynamic IP addresses 
